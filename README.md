@@ -31,7 +31,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mclárèn)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy&count={count})
 
 
 
